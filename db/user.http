@@ -1,0 +1,1 @@
+GET http://user:pass@localhost:8080/user
